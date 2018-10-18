@@ -1,0 +1,171 @@
+[
+	{
+		"id": "http://zotero.org/users/local/chdIJENh/items/7BT6HA66",
+		"type": "article-journal",
+		"title": "The Origins and Structure of Quantitative Concepts",
+		"container-title": "Cognitive neuropsychology",
+		"page": "149-173",
+		"volume": "29",
+		"issue": "0",
+		"source": "PubMed Central",
+		"abstract": "‘Number’ is the single most influential quantitative dimension in modern human society. It is our preferred dimension for keeping track of almost everything including distance, weight, time, temperature, and value. How did ‘number’ become psychologically affiliated with all of these different quantitative dimensions? Humans and other animals process a broad range of quantitative information across many psychophysical dimensions and sensory modalities. The fact that adults can rapidly translate one dimension (e.g., loudness) into any other (e.g., handgrip pressure) has been long established by psychophysics research (). Recent literature has attempted to account for the development of the computational and neural mechanisms that underlie interactions between quantitative dimensions. We review evidence that there are fundamental cognitive and neural relations among different quantitative dimensions (number, size, time, pitch, loudness, and brightness). Then, drawing on theoretical frameworks that explain phenomena from crossmodal perception, we outline some possible conceptualizations for how different quantitative dimensions could come to be related over both ontogenetic and phylogenetic timescales.",
+		"URL": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3894054/",
+		"DOI": "10.1080/02643294.2012.707122",
+		"ISSN": "0264-3294",
+		"note": "PMID: 22966853\nPMCID: PMC3894054",
+		"journalAbbreviation": "Cogn Neuropsychol",
+		"author": [
+			{
+				"family": "Bonn",
+				"given": "Cory D."
+			},
+			{
+				"family": "Cantlon",
+				"given": "Jessica F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/chdIJENh/items/AVCV8HN4",
+		"type": "article-journal",
+		"title": "Spontaneous, modality-general abstraction of a ratio scale",
+		"container-title": "Cognition",
+		"page": "36-45",
+		"volume": "169",
+		"source": "ScienceDirect",
+		"abstract": "The existence of a generalized magnitude system in the human mind and brain has been studied extensively but remains elusive because it has not been clearly defined. Here we show that one possibility is the representation of relative magnitudes via ratio calculations: ratios are a naturally dimensionless or abstract quantity that could qualify as a common currency for magnitudes measured on vastly different psychophysical scales and in different sensory modalities like size, number, duration, and loudness. In a series of demonstrations based on comparisons of item sequences, we demonstrate that subjects spontaneously use knowledge of inter-item ratios within and across sensory modalities and across magnitude domains to rate sequences as more or less similar on a sliding scale. Moreover, they rate ratio-preserved sequences as more similar to each other than sequences in which only ordinal relations are preserved, indicating that subjects are aware of differences in levels of relative-magnitude information preservation. The ubiquity of this ability across many different magnitude pairs, even those sharing no sensory information, suggests a highly general code that could qualify as a candidate for a generalized magnitude representation.",
+		"URL": "http://www.sciencedirect.com/science/article/pii/S0010027717302159",
+		"DOI": "10.1016/j.cognition.2017.07.012",
+		"ISSN": "0010-0277",
+		"journalAbbreviation": "Cognition",
+		"author": [
+			{
+				"family": "Bonn",
+				"given": "Cory D."
+			},
+			{
+				"family": "Cantlon",
+				"given": "Jessica F."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/chdIJENh/items/RVID8WJV",
+		"type": "article-journal",
+		"title": "Indexical and linguistic processing by 12-month-olds: Discrimination of speaker, accent and vowel differences",
+		"container-title": "PloS One",
+		"page": "e0176762",
+		"volume": "12",
+		"issue": "5",
+		"source": "PubMed",
+		"abstract": "Infants preferentially discriminate between speech tokens that cross native category boundaries prior to acquiring a large receptive vocabulary, implying a major role for unsupervised distributional learning strategies in phoneme acquisition in the first year of life. Multiple sources of between-speaker variability contribute to children's language input and thus complicate the problem of distributional learning. Adults resolve this type of indexical variability by adjusting their speech processing for individual speakers. For infants to handle indexical variation in the same way, they must be sensitive to both linguistic and indexical cues. To assess infants' sensitivity to and relative weighting of indexical and linguistic cues, we familiarized 12-month-old infants to tokens of a vowel produced by one speaker, and tested their listening preference to trials containing a vowel category change produced by the same speaker (linguistic information), and the same vowel category produced by another speaker of the same or a different accent (indexical information). Infants noticed linguistic and indexical differences, suggesting that both are salient in infant speech processing. Future research should explore how infants weight these cues in a distributional learning context that contains both phonetic and indexical variation.",
+		"DOI": "10.1371/journal.pone.0176762",
+		"ISSN": "1932-6203",
+		"note": "PMID: 28520762\nPMCID: PMC5435166",
+		"shortTitle": "Indexical and linguistic processing by 12-month-olds",
+		"journalAbbreviation": "PLoS ONE",
+		"language": "eng",
+		"author": [
+			{
+				"family": "Mulak",
+				"given": "Karen E."
+			},
+			{
+				"family": "Bonn",
+				"given": "Cory D."
+			},
+			{
+				"family": "Chládková",
+				"given": "Kateřina"
+			},
+			{
+				"family": "Aslin",
+				"given": "Richard N."
+			},
+			{
+				"family": "Escudero",
+				"given": "Paola"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/chdIJENh/items/T74PCZQE",
+		"type": "article-journal",
+		"title": "A causal test of the motor theory of speech perception: a case of impaired speech production and spared speech perception",
+		"container-title": "Cognitive Neuropsychology",
+		"page": "38-57",
+		"volume": "32",
+		"issue": "2",
+		"source": "PubMed",
+		"abstract": "The debate about the causal role of the motor system in speech perception has been reignited by demonstrations that motor processes are engaged during the processing of speech sounds. Here, we evaluate which aspects of auditory speech processing are affected, and which are not, in a stroke patient with dysfunction of the speech motor system. We found that the patient showed a normal phonemic categorical boundary when discriminating two non-words that differ by a minimal pair (e.g., ADA-AGA). However, using the same stimuli, the patient was unable to identify or label the non-word stimuli (using a button-press response). A control task showed that he could identify speech sounds by speaker gender, ruling out a general labelling impairment. These data suggest that while the motor system is not causally involved in perception of the speech signal, it may be used when other cues (e.g., meaning, context) are not available.",
+		"DOI": "10.1080/02643294.2015.1035702",
+		"ISSN": "1464-0627",
+		"note": "PMID: 25951749\nPMCID: PMC4454743",
+		"shortTitle": "A causal test of the motor theory of speech perception",
+		"journalAbbreviation": "Cogn Neuropsychol",
+		"language": "eng",
+		"author": [
+			{
+				"family": "Stasenko",
+				"given": "Alena"
+			},
+			{
+				"family": "Bonn",
+				"given": "Cory"
+			},
+			{
+				"family": "Teghipco",
+				"given": "Alex"
+			},
+			{
+				"family": "Garcea",
+				"given": "Frank E."
+			},
+			{
+				"family": "Sweet",
+				"given": "Catherine"
+			},
+			{
+				"family": "Dombovy",
+				"given": "Mary"
+			},
+			{
+				"family": "McDonough",
+				"given": "Joyce"
+			},
+			{
+				"family": "Mahon",
+				"given": "Bradford Z."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	}
+]
